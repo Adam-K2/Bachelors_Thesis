@@ -1,0 +1,34 @@
+Dobre z 10 Roop:1
+Zle z 10 Roop:123456789
+
+Dobre z 10 Roop:123
+Zle z 10 Roop:1234567
+20 %
+
+Dobre z 10 FaceFusion:123456
+Zle z 10 FaceFusion:1234
+
+Dobre z 10 FaceFusion:1234
+Zle z 10 FaceFusion:123456
+50 %
+
+Dobre z 10 Ghost:1234567
+Zle z 10 Ghost:123
+
+Dobre z 10 Ghost:123456
+Zle z 10 Ghost:1234
+65 %
+
+Dobre z 10 SimSwap:1234
+Zle z 10 SimSwap:123456
+
+Dobre z 10 SimSwap:1234
+Zle z 10 SimSwap:123456
+40 %
+
+Dobre z 10 Origin:12345
+Zle z 10 Origin:12345
+
+Dobre z 10 Origin:1234567
+Zle z 10 Origin:123
+60 %

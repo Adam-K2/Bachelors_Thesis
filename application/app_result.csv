@@ -1,0 +1,14 @@
+Reference Image,Test Image,Model,Prediction,Distance,Threshold
+.\Origin_4.jpg,.\Deep1_4.jpg,DeepFace,Deepfake,0.1411194220522234,0.23
+.\Origin_4.jpg,.\Deep1_4.jpg,MagFace,Deepfake,1.378242,1.1
+.\Origin_4.jpg,.\Deep1_4.jpg,Facenet,Deepfake,1.4360868667175204,0.8
+.\Origin_1.jpg,.\Origin_2.jpg,MagFace,Original,1.4911604,1.1
+.\Origin_1.jpg,.\Origin_2.jpg,Facenet,Original,1.3901125752719572,0.8
+.\Origin_1.jpg,.\out\Origin_2-b03ade79.jpg,MagFace,Original,0.6240789,1.1
+.\Origin_1.jpg,.\out\Origin_2-b03ade79.jpg,Facenet,Original,1.0104540817661884,0.8
+.\CFP_1.jpg,.\out\CFP_2-fd0aba08.jpg,MagFace,Deepfake,0.62192833,1.1
+.\CFP_1.jpg,.\out\CFP_2-fd0aba08.jpg,Facenet,Deepfake,0.518410662368609,0.8
+.\CFP_1.jpg,,Vgg,Original,,
+.\CFP_1.jpg,.\out\Origin_2-4656904a.jpg,MagFace,Original,0.7121388,1.1
+.\CFP_1.jpg,.\out\Origin_2-4656904a.jpg,Facenet,Original,0.8602662877525094,0.8
+.\CFP_1.jpg,.\out\Origin_2-874b3132.jpg,ArcFace,Original,0.9776432985760974,1.13
